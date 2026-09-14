@@ -14,6 +14,6 @@ Nodes use [CSP](https://github.com/libcsp/libcsp), a protocol for [CubeSats](htt
 It's a personal project, but it runs on real hardware and every
 change goes through CI/CD.
 
-Contact me if you have any questions: <a href="mailto:dgonzalezfabian97@gmail.com"><img src="email.svg" height="16" alt="Email"></a> [dgonzalez97@gmail.com](mailto:dgonzalez97@gmail.com)
+Contact me if you have any questions: <a href="mailto:dgonzalezfabian97@gmail.com"><img src="email.svg" height="16" alt="Email"></a> [dgonzalezfabian97@gmail.com](mailto:dgonzalezfabian97@gmail.com)
 
 <a href="https://github.com/dgonzalez97/k-fsw"><img src="k-fsw-badge.svg" alt="K-FSW on GitHub" align="left"></a><a href="https://www.linkedin.com/in/david-gonzalezf/"><img src="linkedin.svg" width="64" alt="LinkedIn" hspace="35"></a><br><a href="https://x.com/ddgonzalez97"><img src="x.svg" width="64" alt="X" hspace="35"></a><br clear="left">
