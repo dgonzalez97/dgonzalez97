@@ -10,7 +10,7 @@ I'm David, an embedded developer, and [K-FSW](https://github.com/dgonzalez97/k-f
 It runs on [Zephyr](https://www.zephyrproject.org/) and is split into five small repositories: board support,
 communications, services (parameters, file transfer, device, firmware update, housekeeping, events, file based operations), a ground station using [YAMCS](https://yamcs.org/), and modules, the only part a specific mission should create, allowing this to run in OBCs, radios or any payload. Any module can be easily configured to match the subsystem requirements
 
-Nodes use [CSP](https://github.com/libcsp/libcsp), a protocol for [CubeSats](https://en.wikipedia.org/wiki/CubeSat), the protocol can be changed since k-fsw is modular.
+Nodes use [CSP](https://github.com/libcsp/libcsp), a protocol for [CubeSats](https://en.wikipedia.org/wiki/CubeSat), but the protocol can be changed since k-fsw is modular.
 It's a personal project, but it runs on real hardware and every
 change goes through CI/CD.
 
