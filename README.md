@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/dgonzalez97/k-fsw/develop/docs/media/multi-board-can.gif" alt="A ground station talking to three boards over CAN and radio" width="90%">
 </p>
 
-I'm David, an embedded developer, and [K-FSW](https://github.com/dgonzalez97/k-fsw) is the modular and open source flight software I'm building for small satellites (the K comes from [Koala](https://friendsofthekoala.org/about-koalas/)).
+I'm David, an embedded developer, and [K-FSW](https://kfsw.space/) is the modular and open source flight software I'm building for small satellites (the K comes from [Koala](https://friendsofthekoala.org/about-koalas/)).
 
 It runs on [Zephyr](https://www.zephyrproject.org/) and is split into five small repositories: board support,
 communications, services (parameters, file transfer, device, firmware update, housekeeping, events, file based operations), a ground station using [YAMCS](https://yamcs.org/), and modules, the only part a specific mission should create, allowing this to run in OBCs, radios or any payload. Any module can be easily configured to match the subsystem requirements
